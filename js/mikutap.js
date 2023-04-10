@@ -148,7 +148,7 @@ var MainManager = function() {
             v();
             break;
         default:
-            location.href = "../contents/"
+            location.href = "https://github.com/Azuriye/mikutap/"
         }
     }),
     $("#bt_feedback a").click(n),
