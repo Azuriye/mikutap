@@ -36,10 +36,10 @@ daniwell@aidn.jp
 The commercial use of the music managed by the Eggetto Channels ("Nyan Cat" and "Nekomisuji") is subject to the following contact information.
 http://exittunes.com/license/
 ```
-HFIProgramming is not responsible for the results due to the consequences of using this repo in violation  
+Azuriye is not responsible for the results due to the consequences of using this repo in violation  
 
 # DEMO  
 
-https://hfiprogramming.github.io/mikutap/
+https://aidn.jp/mikutap/
 
 ! (All the above text has been translated with DeepL from Chinese to English) !
